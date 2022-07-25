@@ -96,3 +96,18 @@ body{
     background-position: right bottom;
     background-size: 120px;
 }
+footer{
+    background-color: black;
+    text-align: center;
+}
+footer h2{
+    color: aliceblue;
+    padding-top: 20px;
+}
+footer h2 span{
+    color: red;
+}
+footer p{
+    color: aliceblue;
+    padding-bottom: 20px;
+}
