@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.header-top{
+    display: flex;
+}
+.flexible{
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.flexible img{
+    width: 100%;
+    height: auto;
+}
+.hBoder{
+    border-left: 3px solid orangered;
+}
+.hBoder h1{
+    font-size: 40px;
+}
+.hBoder h1 span{
+    color: olive;
+}
+.flexible p{
+    font-size: 18px;
+    color: grey;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.button{
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 10px 30px;
+    background-color: brown;
+    color: aliceblue;
+}
