@@ -40,3 +40,34 @@ body{
     background-color: brown;
     color: aliceblue;
 }
+.mTitle{
+    text-align: center;
+    font-size: 40px;
+}
+.mTitle span{
+    color: orange;
+}
+.missionContainer{
+    display: flex;
+}
+.missionChield{
+    width: 30%;
+    margin-right: 2%;
+    padding: 2%;
+}
+.missionChield img{
+    width: 60%;
+    margin-left: -20px;
+}
+.missionChield p{
+    color: gray;
+}
+.c1{
+    background-color: antiquewhite;
+}
+.c2{
+    background-color: skyblue;
+}
+.c3{
+    background-color: aquamarine;
+}
